@@ -23,7 +23,9 @@ texture by x2 enables x5,x6 performance for a visually equivalent result.
 
 Measure performance, for x16 blur of a 512x512 image:
 ![alt text](rc/blur/blurx16_scalingx1.png "Blur without downscaling, 3.3ms")
+Blur without downscaling: 3.3ms
 ![alt text](rc/blur/blurx16_scalingx4.png "Blur with x4 downscaling, 0.55ms")
+Blur with x4 downscaling: 0.55ms
 
 
 # Bright parts extractor
