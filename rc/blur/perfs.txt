@@ -1,0 +1,14 @@
+Image 512x512
+
+flou x16
+scaling_x1: 300 fps   -> 3.33 ms
+scaling x2: 1200 fps  -> 0.83 ms
+scaling x4: 1800 fps  -> 0.55 ms
+scaling x8: 2000 fps
+scaling_x16: 2200 fps
+
+flou 32
+scaling x1: 150 fps  -> 6.66 ms
+scaling x2: 800 fps  -> 1.25 ms
+scaling x4: 1600 fps -> 0.63 ms
+scaling x8: 2200 fps
