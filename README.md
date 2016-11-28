@@ -59,7 +59,7 @@ It can be used to generate a normal map from a height map.
 Otherwise if we apply a threshold on the gradient's norm, it becomes a contour extractor that can later be used for image segmentation. The only parameter is then the threshold value.
 
 ![alt text](rc/sobel/heightmap.jpg "Original height map")
-![alt text](rc/sobel/normals.jpg "Computed normal map")
+![alt text](rc/sobel/normals.png "Computed normal map")
 
 ![alt text](rc/sobel/original.png "Original")
 ![alt text](rc/sobel/processed.png "Original with bloom")
